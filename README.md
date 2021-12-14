@@ -1,6 +1,6 @@
-# DataPreprocessingFrontEnd
+# Data Preprocessing FrontEnd
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+This project was developed with Angular 12
 
 ## Development server
 
